@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Pratish978.github.io/React2",
+  "homepage": "https://Pratish978.github.io/NetflixCard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
